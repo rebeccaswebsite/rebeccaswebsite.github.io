@@ -1,0 +1,72 @@
+body{
+  background-color: white;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.brushes {
+    background-image: url(brushes.jpg);
+    background-size: cover;
+    background-position: right;
+}
+
+.brushes2{
+  background-image: url(brushes2.jpg);
+  background-size: cover;
+}
+
+.brushes3{
+  background-image: url(brushes3.jpg);
+  background-size: cover;
+}
+
+.padding {
+    padding-top: 30%;
+    height: 250px;
+    font-family: serif;
+    color: white;
+    font-size: 250%;
+}
+
+.heading {
+    font-size: 100px;
+    font-family: serif;
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-weight: 600;
+    padding-top: 35vh;
+}
+
+.paragraph1{
+  font-family: serif;
+  font-size: 30px;
+}
+
+.how-to{
+  background-image: url(headdrawing.jpg);
+  background-size: cover;
+  height:600;
+}
+
+.list{
+  font-family: serif;
+  font-size: 30px;
+}
+
+.howtosection{
+  background-image: url(brick2.jpg);
+  margin: 0;
+  padding: 10%;
+}
+
+.brick{
+  background-image: url(brick.jpg);
+  height:100vh;
+}
+
+.love-text{
+  font-size: 70px;
+}
